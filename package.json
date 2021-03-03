@@ -1,9 +1,9 @@
 {
-  "name": "next-ts",
+  "name": "nextjs-typescript",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "PORT=3001 next dev",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
